@@ -1,0 +1,2 @@
+# gorgona
+Businesses Intelligence tool
